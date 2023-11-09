@@ -16,6 +16,6 @@ I used CSS,HTML and JavaScript whereby HTML was used in coming up with the conte
 ## Support and contact details
 Incase of any queries you can reach me through email edwinkimathi226@gmail.com
 ### License
-This Project comes wit MIT License. View it <a href="">here</a>
+This Project comes wit MIT License. View it <a href="https://github.com/edwinkim16/Plotly-Graphs/blob/gh-pages/License">here</a>
  Edwin Kimathi
   
